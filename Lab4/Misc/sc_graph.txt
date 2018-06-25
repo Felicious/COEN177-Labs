@@ -1,0 +1,15 @@
+Page Request = 5580041
+Number of Misses = 3835030
+Hit rate = 0.312724
+Page Request = 5580041
+Number of Misses = 2692767
+Hit rate = 0.517429
+Page Request = 5580041
+Number of Misses = 2235907
+Hit rate = 0.599303
+Page Request = 5580041
+Number of Misses = 1383645
+Hit rate = 0.752037
+Page Request = 5580041
+Number of Misses = 546902
+Hit rate = 0.901990

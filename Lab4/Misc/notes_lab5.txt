@@ -1,0 +1,16 @@
+command line input
+standard in >> page request, and put it into page table
+-- if not in table, dont add it in
+correct output: He'll give it to us
+
+compile and run:
+compile first then
+./first task 10 (10 is the number)
+then type in some numbers for paging. interact with it~
+
+hit CTRL+D while interacting to receive the hit rate 
+
+cat accesses.txt | ./(our program) (insert size of pages)
+
+use headers (parse arguments in one separate file and #include header)
+

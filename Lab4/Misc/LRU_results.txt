@@ -1,0 +1,5 @@
+Hit rate = 0.310150
+Hit rate = 0.513629
+Hit rate = 0.597564
+Hit rate = 0.753123
+Hit rate = 0.901282
