@@ -1,3 +1,5 @@
+Assignment 1: Familiarizing ourselves with shell
+
 PLEASE SUBMIT THE ASSIGNMENT IN THE LAB SECTION ON CAMINO
 Programming Assignment #1: Creating Processes
 Due Date: Demo Schedule a time with your TA before your next lab (April 19th and 20th),
