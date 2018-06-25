@@ -9,4 +9,6 @@ In this question "user workload" refers to the requests being made upon the file
 
 A simple example of this is the degree of randomness or sequentiality of the workload. In that case, one way to answer this question is to generate files of different sizes, and to read those files in their entirety using a sequential pattern (reading a file from beginning to end), and then repeating the experiment for a random pattern (reading a bytes from random locations by making use of the "lseek" call). You could generate such test files by writing random data to a set of files, either through a very simple C program or through use of Unix command line tools (like piping the output of /dev/random through the "head" command, or by using the "dd" command instead).  You are free to use whatever tools and code you wish to answer this question, but all submitted materials should be testable on lab systems and included as part of your submission where possible.
 
+Required to read files of file sizes of 1G, 2.5G, and 5G.
+
 Good Luck!
